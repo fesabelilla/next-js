@@ -28,6 +28,9 @@ export default function RootLayout({ children }) {
           <li>
             <Link href="/about">About</Link>
           </li>
+          <li>
+            <Link href="/blogs">Blogs</Link>
+          </li>
         </ul>
         <hr />
         {children}

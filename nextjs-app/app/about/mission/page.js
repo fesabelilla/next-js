@@ -11,7 +11,7 @@ export default function Mission() {
         Bangladeshs most comprehensive virtual business that helps customers
         make informed choices and extract the best value for their money.
       </div>
-      <Image src={thumb} alt="Thumb Image" />
+      <Image placeholder="blur" src={thumb} alt="Thumb Image" />
       <Button />
     </main>
   );
